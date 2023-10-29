@@ -1,0 +1,6 @@
+virtualenv nlpenv
+source nlpenv/bin/activate
+mljar-mercury
+spacy
+spacytextblob
+pip install -r requirements.txt
